@@ -1,0 +1,24 @@
+{
+  "name": "echoworld",
+  "version": "1.0.0",
+  "description": "A simple echo utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo",
+    "utility",
+    "world"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/echoworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/echoworld/issues"
+  },
+  "homepage": "https://github.com/username/echoworld#readme"
+}
